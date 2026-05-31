@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+   color: black;
+}
+
+h1 {
+    text-align: center;
+}
+header {
+    padding: 20px;
+    background-color: aqua;
+}
+footer {
+    background-color: blanchedalmond;
+    color: black;
+    padding: 20px;
+}
+nav {
+margin: 20px; padding: 10px;
+border: 2px solid lightgray;
+border-radius: 15px;
+}
+nav a {
+margin: 60px; font-size: 20px;
+text-decoration: none; color: rg(90, 90, 90);
+}
+
+p {
+    background-color: rgb(255, 0, 0);
+}
